@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi, I'm a BIT student from Nepal 🇳🇵 passionate about technology and problem-solving.<br><br>💻 Currently learning JavaScript and improving my frontend development skills with React.<br>🧠 Interested in Operating Systems and Advanced Networking (challenging but exciting!).<br>🚀 Exploring Data Structures, Algorithms, and building real-world projects.<br>🎯 Goal: Become a sharp, critical thinker and skilled software developer.
+👋 About Me<br><br>Hi, I'm a BIT student from Nepal 🇳🇵 passionate about technology and problem-solving.<br><br>💻 Currently learning JavaScript and improving my frontend development skills with React.<br>🧠 Interested in Backend and Problem solving (challenging but exciting!).<br>🚀 Exploring Data Structures, Algorithms, and building real-world projects.<br>🎯 Goal: Become a sharp, critical thinker and skilled software developer.
 
 
 ## 🌐 Socials:
