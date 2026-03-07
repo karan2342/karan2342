@@ -1,0 +1,29 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats Images
+        run: |
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=karan2342&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true"
+          curl -o github-streak.svg "https://streak-stats.demolab.com?user=karan2342&theme=merko&hide_border=true"
+          curl -o github-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=karan2342&theme=merko&hide_border=true&layout=compact"
+      
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git push
