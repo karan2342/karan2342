@@ -94,7 +94,7 @@ fun_fact:    I debug with console.log() and pride 😄
 
 </div>
 
-> 📝 These are self-rated and just a rough guide — feel free to adjust the numbers in the README source as your skills grow.
+> 
 
 <br>
 
