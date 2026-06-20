@@ -98,20 +98,23 @@ fun_fact:    I debug with console.log() and pride 😄
 
 <br>
 
-## 🌟 Featured Projects
+## 👻 My Contributions, Pac-Man Style
 
 <div align="center">
-
-<a href="https://github.com/karan2342/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan2342&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%"/>
-</a>
-<a href="https://github.com/karan2342/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan2342&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%"/>
-</a>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karan2342/karan2342/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karan2342/karan2342/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karan2342/karan2342/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 </div>
 
-> 💡 Replace `REPO_NAME_1` / `REPO_NAME_2` above with the actual names of your repos (e.g. `karan2342/portfolio-website`) to show live pinned-style cards with stars, forks, and language.
+<br>
+
+## 🐍 My Contributions, Snake Style
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/karan2342/karan2342/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+</div>
 
 <br>
 
@@ -151,16 +154,6 @@ fun_fact:    I debug with console.log() and pride 😄
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 </div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/karan2342/karan2342/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-</div>
-
-> 💡 To enable the snake animation above, add the **[Snake animation GitHub Action](https://github.com/Platane/snk)** to a workflow in this repo — it auto-generates that SVG from your contribution graph.
 
 <br>
 
