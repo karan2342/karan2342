@@ -86,11 +86,11 @@ fun_fact:    I debug with console.log() and pride 😄
 | Skill | Progress |
 |---|---|
 | HTML / CSS | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
-| JavaScript | ![](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
-| React | ![](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
-| C | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
-| Python | ![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
-| DSA / Problem Solving | ![](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
+| JavaScript | ![](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
+| React | ![](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
+| C | ![](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
+| Python | ![](https://geps.dev/progress/34?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
+| DSA / Problem Solving | ![](https://geps.dev/progress/42?dangerColor=800000&warningColor=ff9900&successColor=00b300) |
 
 </div>
 
